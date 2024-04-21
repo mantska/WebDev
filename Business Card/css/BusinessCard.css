@@ -1,0 +1,23 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.card {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin: 100px auto 0 auto;
+    background-color: #d68205;
+    border-bottom: 6px solid #dd9b66;
+    width: 400px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card img {
+    width: 150px;
+    border: 2px solid #471400;
+    border-radius: 5px;
+}

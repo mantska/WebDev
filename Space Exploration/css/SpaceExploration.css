@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #abc3ef;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+}
+
+#hero {
+    background-image: url("../video/galaxy.webp");
+    background-size: cover;
+    height: 600px;
+}
+
+#hero h1 {
+    margin-top: 60px;
+    font-size: 50px;
+    text-shadow: 0px 0px 4px #000000;
+}
+
+.btn {
+    margin-top: 30px;
+    background-color: #ffffff;
+    padding: 7px 15px;
+    border: none;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 900;
+    color: #abc3ef;
+}
+
+.underline {
+    border-bottom: 4px solid #ffffff;
+}
+
+#mainLogo {
+    margin-top: 30px;
+    width: 150px;
+}
+
+h3 {
+    margin-top: 30px;
+    font-size: 30px;
+}
